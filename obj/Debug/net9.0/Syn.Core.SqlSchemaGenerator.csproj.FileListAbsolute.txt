@@ -1,0 +1,13 @@
+D:\Projects\CorePackage\DataBaseSchemaBuilder\Syn.Core.SqlSchemaGenerator\obj\Debug\net9.0\Syn.Core.SqlSchemaGenerator.csproj.AssemblyReference.cache
+D:\Projects\CorePackage\DataBaseSchemaBuilder\Syn.Core.SqlSchemaGenerator\obj\Debug\net9.0\Syn.Core.SqlSchemaGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CorePackage\DataBaseSchemaBuilder\Syn.Core.SqlSchemaGenerator\obj\Debug\net9.0\Syn.Core.SqlSchemaGenerator.AssemblyInfoInputs.cache
+D:\Projects\CorePackage\DataBaseSchemaBuilder\Syn.Core.SqlSchemaGenerator\obj\Debug\net9.0\Syn.Core.SqlSchemaGenerator.AssemblyInfo.cs
+D:\Projects\CorePackage\DataBaseSchemaBuilder\Syn.Core.SqlSchemaGenerator\obj\Debug\net9.0\Syn.Core.SqlSchemaGenerator.csproj.CoreCompileInputs.cache
+D:\Projects\CorePackage\DataBaseSchemaBuilder\Syn.Core.SqlSchemaGenerator\obj\Debug\net9.0\Syn.Core.SqlSchemaGenerator.sourcelink.json
+D:\Projects\CorePackage\DataBaseSchemaBuilder\Syn.Core.SqlSchemaGenerator\bin\Debug\net9.0\Syn.Core.SqlSchemaGenerator.deps.json
+D:\Projects\CorePackage\DataBaseSchemaBuilder\Syn.Core.SqlSchemaGenerator\bin\Debug\net9.0\Syn.Core.SqlSchemaGenerator.dll
+D:\Projects\CorePackage\DataBaseSchemaBuilder\Syn.Core.SqlSchemaGenerator\bin\Debug\net9.0\Syn.Core.SqlSchemaGenerator.pdb
+D:\Projects\CorePackage\DataBaseSchemaBuilder\Syn.Core.SqlSchemaGenerator\obj\Debug\net9.0\Syn.Core.SqlSchemaGenerator.dll
+D:\Projects\CorePackage\DataBaseSchemaBuilder\Syn.Core.SqlSchemaGenerator\obj\Debug\net9.0\refint\Syn.Core.SqlSchemaGenerator.dll
+D:\Projects\CorePackage\DataBaseSchemaBuilder\Syn.Core.SqlSchemaGenerator\obj\Debug\net9.0\Syn.Core.SqlSchemaGenerator.pdb
+D:\Projects\CorePackage\DataBaseSchemaBuilder\Syn.Core.SqlSchemaGenerator\obj\Debug\net9.0\ref\Syn.Core.SqlSchemaGenerator.dll
